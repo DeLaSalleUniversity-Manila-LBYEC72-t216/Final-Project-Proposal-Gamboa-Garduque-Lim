@@ -8,3 +8,8 @@ MEMBERS: Gamboa, Tiffani Grace;
         a. Land - BUS
         b. Air - INT'L AIRLINES
         c. Sea - CRUISE
+
+2. Title: Vote Counting System in School
+         A. Security: ID Number and Full Name
+         B. Votes Counting: Vote increases every entry
+         C. Results: 
