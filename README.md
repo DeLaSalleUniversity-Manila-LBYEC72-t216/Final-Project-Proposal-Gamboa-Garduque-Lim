@@ -1,5 +1,10 @@
 # Final-Project-Proposal-Gamboa-Garduque-Lim
 
-1. Airplane Ticketing System 
-2. Enlistment (Adding Classes to Schedule)
-3. Enrollment (Mode of Payment)
+MEMBERS: Gamboa, Tiffani Grace
+         Garduque, Jasmine Anne
+         Lim, Patrick Jerwin
+
+1.Title: Transportation Ticketing System
+        a. Land - BUS
+        b. Air - INT'L AIRLINES
+        c. Sea - CRUISE
