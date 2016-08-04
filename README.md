@@ -12,4 +12,6 @@ MEMBERS: Gamboa, Tiffani Grace;
 2. Title: Vote Counting System in School
          A. Security: ID Number and Full Name
          B. Votes Counting: Vote increases every entry
-         C. Results: 
+         C. Results
+                  a. ID numbers of people who have not voted are shown
+         
