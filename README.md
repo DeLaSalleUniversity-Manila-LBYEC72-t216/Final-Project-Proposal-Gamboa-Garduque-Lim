@@ -4,13 +4,7 @@ MEMBERS: Gamboa, Tiffani Grace;
          Garduque, Jasmine Anne;
          Lim, Patrick Jerwin;
 
-1.Title: Transportation Ticketing System
-        a. Land - BUS
-        b. Air - INT'L AIRLINES
-        c. Sea - CRUISE
-2. Title: Vote Counting System in School
-         A. Security: ID Number and Full Name
-         B. Votes Counting: Vote increases every entry
-         C. Results
-                  a. ID numbers of people who have not voted are shown
+1.Title: Restaurant Dish Menu
+         - Duration of food preparation
+         - Ordering by urgency
          
